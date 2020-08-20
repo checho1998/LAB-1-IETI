@@ -10,15 +10,15 @@ Con este codigo se ejecutara la aplicacion y lo podra comprobar en este navegado
 
 ### Part 1: Create a basic React application and understand React basics
 
-Imagen 1
+![Imagenes](https://github.com/checho1998/LAB-1-IETI/blob/master/todo-app/Imagenes/1.PNG)
 
 ### Part 2: Create React Components for the TODO App
 
-Imagen 2
+![Imagenes](https://github.com/checho1998/LAB-1-IETI/blob/master/todo-app/Imagenes/2.PNG)
 
 ### Part 3: Interacting with React Components
 
-Imagen 3
+![Imagenes](https://github.com/checho1998/LAB-1-IETI/blob/master/todo-app/Imagenes/3.PNG)
 
 ## Codigo de Honor
 
