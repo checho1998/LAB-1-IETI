@@ -1,5 +1,5 @@
-importar  Reaccionar  desde  'reaccionar' ; 
-import {Todo} from './Todo'
+import React from 'react';
+import {Todo} from './Todo';
 
 export class TodoList extends React.Component{
 
@@ -8,18 +8,17 @@ export class TodoList extends React.Component{
     	}
 
 	render() {
-		const listTodo = this.props.todoList.map((tod) =>
-    			<li>
+        const listTodo = this.props.todoList.map((tod) =>
+            <li>
+                <Todo text={tod.text}  priority = {tod.priority}   dueDate = {tod.dueDate}/>
+            </li>
+	    );
+        
+        return  (
+		<ul>{listTodo}</ul>
+               );
+        
+    }
 
-			  <Todo text={tod.text}> priority = {tod.priority} dueDate = {tod.dueDate}/>
-      			  
-    			</li>
-  		);
-		return(
-		  <ul> {listTodo} </ul>
-		);
-
-	}
- 
 
 }
