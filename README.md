@@ -1,7 +1,24 @@
 # LAB-1-IETI
 
-Voy en el punto 4 terminado
+## Desarrollo
 
+Desde la direccion del proyecto usted puede ejecutar:
+
+#### `npm start`
+
+Con este codigo se ejecutara la aplicacion y lo podra comprobar en este navegador [http://localhost:3000](http://localhost:3000)
+
+### Part 1: Create a basic React application and understand React basics
+
+Imagen 1
+
+### Part 2: Create React Components for the TODO App
+
+Imagen 2
+
+### Part 3: Interacting with React Components
+
+Imagen 3
 
 ## Codigo de Honor
 
